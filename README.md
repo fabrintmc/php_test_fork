@@ -15,14 +15,14 @@ Sistema web desenvolvido em PHP para criação e geração de currículos profis
 
 ### 📝 Formulário Dinâmico
 
-- **Dados Pessoais**: Nome, email, telefone, endereço```bash
+- **Dados Pessoais**: Nome, email, telefone, endereço
 
-- **Idade Automática**: Calculada via JavaScriptchmod -R 755 public/
+- **Idade Automática**: Calculada via JavaScript
 
-- **Formação Acadêmica**: Campos dinâmicos com botão "+"chmod -R 777 public/uploads/ # Se você adicionar upload de arquivos
+- **Formação Acadêmica**: Campos dinâmicos com botão "+"
 
-- **Experiência Profissional**: Adicione múltiplas experiências```
+- **Experiência Profissional**: Adicione múltiplas experiências
 
 - **Habilidades**: Técnicas e pessoais
 
-- **Referências**: Contatos profissionais### 5. Inicie o servidor
+- **Referências**: Contatos profissionais
