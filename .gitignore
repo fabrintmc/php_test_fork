@@ -1,0 +1,60 @@
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Cache
+cache/
+tmp/
+
+# Uploads
+uploads/
+public/uploads/
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# Composer
+vendor/
+composer.lock
+
+# NPM
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build files
+dist/
+build/
+
+# Database dumps
+*.sql.gz
+*.sql.bz2
+database_backup_*
+
+# Sensitive files
+private/
+certificates/
+*.pem
+*.key
+
+# Error logs
+error.log
+access.log
+php_errors.log

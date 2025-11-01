@@ -1,0 +1,34 @@
+{
+    "nome_completo": "Usuário",
+    "email": "usu@email.com",
+    "telefone": "44999999999",
+    "data_nascimento": "1985-10-01",
+    "estado_civil": "casado",
+    "endereco": "RUa 1",
+    "cidade": "Cidade 1",
+    "objetivo": "Meus objetivos profissionais",
+    "idade": 40,
+    "formacao": [
+        {
+            "curso": "A",
+            "instituicao": "A",
+            "ano_inicio": 2023,
+            "ano_fim": 2025,
+            "status": "concluido"
+        }
+    ],
+    "experiencia": [
+        {
+            "cargo": "A",
+            "empresa": "A",
+            "inicio": "2025-03",
+            "fim": "",
+            "atual": true,
+            "descricao": "AAAA"
+        }
+    ],
+    "habilidades_tecnicas": "",
+    "habilidades_pessoais": "",
+    "idiomas": "",
+    "referencias": []
+}

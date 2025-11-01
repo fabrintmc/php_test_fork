@@ -1,0 +1,56 @@
+{
+    "nome_completo": "José",
+    "email": "j@email.com",
+    "telefone": "0099999999",
+    "data_nascimento": "1960-01-01",
+    "estado_civil": "viuvo",
+    "endereco": "Rua",
+    "cidade": "Cidade",
+    "objetivo": "Programação",
+    "idade": 65,
+    "formacao": [
+        {
+            "curso": "Curso 1",
+            "instituicao": "Universidade A",
+            "ano_inicio": 2006,
+            "ano_fim": 2009,
+            "status": "concluido"
+        },
+        {
+            "curso": "Curso 2",
+            "instituicao": "Universidade B",
+            "ano_inicio": 2010,
+            "ano_fim": 2012,
+            "status": "concluido"
+        }
+    ],
+    "experiencia": [
+        {
+            "cargo": "Profissão 1",
+            "empresa": "Empresa A",
+            "inicio": "2021-01",
+            "fim": "",
+            "atual": true,
+            "descricao": "Atividade 1, Atividade 2"
+        },
+        {
+            "cargo": "Profissão 2",
+            "empresa": "Empresa B",
+            "inicio": "2018-05",
+            "fim": "2020-12",
+            "atual": false,
+            "descricao": ""
+        }
+    ],
+    "habilidades_tecnicas": "123",
+    "habilidades_pessoais": "123",
+    "idiomas": "Inglês",
+    "referencias": [
+        {
+            "nome": "Pessoa",
+            "cargo": "Gerente",
+            "telefone": "8888888888",
+            "email": "email@email.com"
+        }
+    ]
+}
