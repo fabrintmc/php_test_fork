@@ -1,4 +1,4 @@
-# Sistema de Geração de Currículo# PHP
+# Sistema de Geração de Currículo PHP
 
 Sistema web desenvolvido em PHP para criação e geração de currículos profissionais com interface moderna e funcionalidades dinâmicas
 
